@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am  Muhammad Ali</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am  Ayaz Hussain</a></h1>
 <h2 align="center">A passionate Java enthusiast from Pakistan </h2>
 <h3 align="center">Java Developer</h3>
 
